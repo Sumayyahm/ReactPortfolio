@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/About/index.css"],"names":[],"mappings":"AAAA,cACI,cACJ","file":"main.ac56b4cc.chunk.css","sourcesContent":["#about-header{\r\n    font-size: 40px;\r\n}\r\n\r\n"]}
