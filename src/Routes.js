@@ -14,7 +14,10 @@ import {
         <Navbar />
         <br></br><br></br>
         <Switch>
-        <Route exact path="/">
+        <Route exact path="/reactportfolio/">
+            <About />
+          </Route>
+          <Route exact path="/">
             <About />
           </Route>
           <Route path="/portfolio">
