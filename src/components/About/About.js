@@ -15,7 +15,8 @@ const styles ={
 
 const style1 = {
   fontFamily: 'Cambria',
-  color: 'dimgray'
+  color: 'dimgray',
+  fontSize: '27px'
 }
 
 const About = () => (

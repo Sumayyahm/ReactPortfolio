@@ -3,7 +3,8 @@ import { Item } from 'semantic-ui-react'
 
 const style = {
     fontFamily: 'Cambria',
-    color: 'dimgray'
+    color: 'dimgray',
+    fontSize: '27px'
   }
 
 

@@ -14,7 +14,8 @@ const styles = {
     padding: 35,
     backgroundColor: "whitesmoke",
     borderWidth: "1px",
-    borderColor: "darkgray"
+    borderColor: "darkgray",
+    fontSize: '27px'
 }
 
 

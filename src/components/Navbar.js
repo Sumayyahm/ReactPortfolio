@@ -19,11 +19,11 @@ export default class Navbar extends Component {
       
         <Menu style= {styles}>
           
-          <h1 style={{margin: 10, fontFamily: 'Cambria', color: "dimgray"}}>Sumayyah Mariam</h1>
+          <h1 style={{margin: 10, fontFamily: 'Cambria', color: "dimgray", fontSize: '40px'}}>Sumayyah Mariam</h1>
 
           <Link to="/reactportfolio/">
             <Menu.Item
-            style={{margin: 10, fontFamily:'Cambria', color: 'dimgray'}}
+            style={{margin: 10, fontFamily:'Cambria', color: 'dimgray', fontSize: '27px'}}
             name='About'
             active={activeItem === 'About'}
             onClick={this.handleItemClick}
@@ -31,7 +31,7 @@ export default class Navbar extends Component {
           </Link>
           <Link to="/portfolio">
             <Menu.Item
-             style={{margin: 10, fontFamily:'Cambria', color: 'dimgray'}}
+             style={{margin: 10, fontFamily:'Cambria', color: 'dimgray', fontSize: '27px'}}
              name='Portfolio'
              active={activeItem === 'Portfolio'}
              onClick={this.handleItemClick} 
