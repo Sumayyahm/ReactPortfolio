@@ -17,9 +17,9 @@ import {
         <Route exact path="/reactportfolio/">
             <About />
           </Route>
-          <Route exact path="/">
+          {/* <Route exact path="/">
             <About />
-          </Route>
+          </Route> */}
           <Route path="/portfolio">
             <Portfolio />
           </Route>

@@ -21,7 +21,7 @@ export default class Navbar extends Component {
           
           <h1 style={{margin: 10, fontFamily: 'Cambria', color: "dimgray"}}>Sumayyah Mariam</h1>
 
-          <Link to="/">
+          <Link to="/reactportfolio/">
             <Menu.Item
             style={{margin: 10, fontFamily:'Cambria', color: 'dimgray'}}
             name='About'
