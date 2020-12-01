@@ -4,7 +4,7 @@ import { Item } from 'semantic-ui-react'
 const style = {
     fontFamily: 'Cambria',
     color: 'dimgray',
-    fontSize: '27px'
+    fontSize: '20px'
   }
 
 

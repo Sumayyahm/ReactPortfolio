@@ -15,7 +15,7 @@ const styles = {
     backgroundColor: "whitesmoke",
     borderWidth: "1px",
     borderColor: "darkgray",
-    fontSize: '27px'
+    fontSize: '18px'
 }
 
 

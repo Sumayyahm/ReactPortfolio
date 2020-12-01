@@ -16,7 +16,7 @@ const styles ={
 const style1 = {
   fontFamily: 'Cambria',
   color: 'dimgray',
-  fontSize: '27px'
+  fontSize: '18px'
 }
 
 const About = () => (
@@ -25,7 +25,7 @@ const About = () => (
       <Item.Image size='medium' src={image} circular />
 
       <Item.Content >
-          <br></br><br></br><br></br><br></br><br></br>
+          <br></br><br></br><br></br>
         <Item.Header id="about-header" style={style1}>About Me</Item.Header>
         <br></br><br></br>
         {/* <Item.Meta>Description</Item.Meta> */}
