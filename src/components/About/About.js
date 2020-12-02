@@ -25,9 +25,9 @@ const About = () => (
       <Item.Image size='medium' src={image} circular />
 
       <Item.Content >
-          <br></br><br></br><br></br>
+          <br></br><br></br>
         <Item.Header id="about-header" style={style1}>About Me</Item.Header>
-        <br></br><br></br>
+        <br></br>
         {/* <Item.Meta>Description</Item.Meta> */}
         <Item.Description style={style1}>
           <p>My name is Sumayyah Mariam. I have a bachelors degree in Electronics and Communication Engineer
@@ -36,7 +36,7 @@ const About = () => (
           <p>Fun Facts: I was an elementary school teacher before I moved to Texas. I enjoy cooking and
           gardening. I am an avid Netflix viewer and I have a flair for learning languages. I live in Austin, Texas with
           my husband.</p>
-          <br></br>
+          
         </Item.Description>
         <Item.Extra>
           <Contact style={style1} />
