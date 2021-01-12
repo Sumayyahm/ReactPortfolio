@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/reactportfolio/static/css/main.ac56b4cc.chunk.css",
-    "main.js": "/reactportfolio/static/js/main.03a6dd7d.chunk.js",
-    "main.js.map": "/reactportfolio/static/js/main.03a6dd7d.chunk.js.map",
+    "main.js": "/reactportfolio/static/js/main.ff7b08b8.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.ff7b08b8.chunk.js.map",
     "runtime-main.js": "/reactportfolio/static/js/runtime-main.984fba33.js",
     "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.984fba33.js.map",
     "static/css/2.e7cf96a0.chunk.css": "/reactportfolio/static/css/2.e7cf96a0.chunk.css",
-    "static/js/2.47e689af.chunk.js": "/reactportfolio/static/js/2.47e689af.chunk.js",
-    "static/js/2.47e689af.chunk.js.map": "/reactportfolio/static/js/2.47e689af.chunk.js.map",
+    "static/js/2.d352121c.chunk.js": "/reactportfolio/static/js/2.d352121c.chunk.js",
+    "static/js/2.d352121c.chunk.js.map": "/reactportfolio/static/js/2.d352121c.chunk.js.map",
     "index.html": "/reactportfolio/index.html",
     "static/css/2.e7cf96a0.chunk.css.map": "/reactportfolio/static/css/2.e7cf96a0.chunk.css.map",
     "static/css/main.ac56b4cc.chunk.css.map": "/reactportfolio/static/css/main.ac56b4cc.chunk.css.map",
-    "static/js/2.47e689af.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.47e689af.chunk.js.LICENSE.txt",
+    "static/js/2.d352121c.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.d352121c.chunk.js.LICENSE.txt",
     "static/media/Esthete.f657b5bf.PNG": "/reactportfolio/static/media/Esthete.f657b5bf.PNG",
     "static/media/SumayyahMariamResume.27840ff7.pdf": "/reactportfolio/static/media/SumayyahMariamResume.27840ff7.pdf",
     "static/media/semantic.min.css": "/reactportfolio/static/media/outline-icons.ddae9b1b.woff",
     "static/media/budgettrackerImage.fbb218ef.png": "/reactportfolio/static/media/budgettrackerImage.fbb218ef.png",
     "static/media/eatburger.43658d3f.png": "/reactportfolio/static/media/eatburger.43658d3f.png",
     "static/media/empdirectory.dde630fa.png": "/reactportfolio/static/media/empdirectory.dde630fa.png",
+    "static/media/gardencroft.f8a9b3f0.PNG": "/reactportfolio/static/media/gardencroft.f8a9b3f0.PNG",
     "static/media/sumprofilepic.d9b6cfe3.jpg": "/reactportfolio/static/media/sumprofilepic.d9b6cfe3.jpg",
     "static/media/trimfit.99a21c73.png": "/reactportfolio/static/media/trimfit.99a21c73.png",
     "static/media/weatherApp.3a83a452.PNG": "/reactportfolio/static/media/weatherApp.3a83a452.PNG"
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.984fba33.js",
     "static/css/2.e7cf96a0.chunk.css",
-    "static/js/2.47e689af.chunk.js",
+    "static/js/2.d352121c.chunk.js",
     "static/css/main.ac56b4cc.chunk.css",
-    "static/js/main.03a6dd7d.chunk.js"
+    "static/js/main.ff7b08b8.chunk.js"
   ]
 }
