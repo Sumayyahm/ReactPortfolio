@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactportfolio/static/css/main.ac56b4cc.chunk.css",
-    "main.js": "/reactportfolio/static/js/main.ff7b08b8.chunk.js",
-    "main.js.map": "/reactportfolio/static/js/main.ff7b08b8.chunk.js.map",
+    "main.js": "/reactportfolio/static/js/main.61d12265.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.61d12265.chunk.js.map",
     "runtime-main.js": "/reactportfolio/static/js/runtime-main.984fba33.js",
     "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.984fba33.js.map",
     "static/css/2.e7cf96a0.chunk.css": "/reactportfolio/static/css/2.e7cf96a0.chunk.css",
@@ -13,7 +13,7 @@
     "static/css/main.ac56b4cc.chunk.css.map": "/reactportfolio/static/css/main.ac56b4cc.chunk.css.map",
     "static/js/2.d352121c.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.d352121c.chunk.js.LICENSE.txt",
     "static/media/Esthete.f657b5bf.PNG": "/reactportfolio/static/media/Esthete.f657b5bf.PNG",
-    "static/media/SumayyahMariamResume.27840ff7.pdf": "/reactportfolio/static/media/SumayyahMariamResume.27840ff7.pdf",
+    "static/media/SumayyahMariamResume.0bf27806.pdf": "/reactportfolio/static/media/SumayyahMariamResume.0bf27806.pdf",
     "static/media/semantic.min.css": "/reactportfolio/static/media/outline-icons.ddae9b1b.woff",
     "static/media/budgettrackerImage.fbb218ef.png": "/reactportfolio/static/media/budgettrackerImage.fbb218ef.png",
     "static/media/eatburger.43658d3f.png": "/reactportfolio/static/media/eatburger.43658d3f.png",
@@ -28,6 +28,6 @@
     "static/css/2.e7cf96a0.chunk.css",
     "static/js/2.d352121c.chunk.js",
     "static/css/main.ac56b4cc.chunk.css",
-    "static/js/main.ff7b08b8.chunk.js"
+    "static/js/main.61d12265.chunk.js"
   ]
 }
