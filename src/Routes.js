@@ -10,17 +10,17 @@ import {
 
   function Routes() {
       return (
-      <Router>
+      <Router >
         <Navbar />
         <br></br><br></br>
         <Switch>
-        <Route exact path="/reactportfolio/">
+        <Route path="/reactPortfolio">
             <About />
           </Route>
           {/* <Route exact path="/">
             <About />
           </Route> */}
-          <Route path="/portfolio">
+          <Route  path="/portfolio">
             <Portfolio />
           </Route>
         </Switch>

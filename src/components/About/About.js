@@ -36,6 +36,7 @@ const About = () => (
           <p>Fun Facts: I was an elementary school teacher before I moved to Texas. I enjoy cooking and
           gardening. I am an avid Netflix viewer and I have a flair for learning languages. I live in Austin, Texas with
           my husband.</p>
+          <p>My skill set : HTML, CSS, React, jQuery, MYSQL, Sequelize, MongoDB, Node, Express</p>
           
         </Item.Description>
         <Item.Extra>

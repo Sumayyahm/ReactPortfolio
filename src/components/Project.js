@@ -21,6 +21,8 @@ const Projects = (props) => (
         <Item.Description style={style}>
           <p>{props.description}</p>
           <br></br>
+          <p> Technologies used: {props.technologies}</p>
+          <br />
           <p><a href= {props.deployed} target="_blank">Deployed Link</a></p>
           <br></br>
           <p><a href={props.github} target="_blank">GitHub Link</a></p>
